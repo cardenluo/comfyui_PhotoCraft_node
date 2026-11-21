@@ -1,0 +1,9 @@
+{
+  "nodeCategories": {
+    "image": "图像",
+    "image/PhotoCraft": "图像/PhotoCraft",
+    "Apt_Preset": "Apt_Preset",
+    "Apt_Preset/PhotoCraft": "Apt_Preset/PhotoCraft",
+    "PhotoCraft": "PhotoCraft"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "photoCraft_load_image": {
+    "display_name": "PhotoCraft 加载图像",
+    "description": "加载图像，并可点按钮用 PhotoCraft 编辑器直接修改。",
+    "inputs": {
+      "image": {
+        "tooltip": "input 目录下的图片文件名，也可直接上传。",
+        "name": "图像"
+      }
+    },
+    "outputs": {
+      "0": {
+        "tooltip": "RGB 三通道图像（alpha 不并入）",
+        "name": "图像"
+      },
+      "1": {
+        "tooltip": "源图的 alpha 通道",
+        "name": "遮罩"
+      }
+    }
+  },
+  "photoCraft_image_combine": {
+    "display_name": "PhotoCraft 多图层合成",
+    "description": "把多张图作为独立图层喂给 PhotoCraft，导出后合成一张。",
+    "inputs": {
+      "image1": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 1"
+      },
+      "image2": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 2"
+      },
+      "image3": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 3"
+      },
+      "image4": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 4"
+      },
+      "image5": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 5"
+      },
+      "image6": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 6"
+      },
+      "image7": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 7"
+      },
+      "image8": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 8"
+      },
+      "image9": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 9"
+      },
+      "image10": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 10"
+      },
+      "image11": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 11"
+      },
+      "image12": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 12"
+      },
+      "image13": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 13"
+      },
+      "image14": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 14"
+      },
+      "image15": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 15"
+      },
+      "image16": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 16"
+      },
+      "image17": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 17"
+      },
+      "image18": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 18"
+      },
+      "image19": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 19"
+      },
+      "image20": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 20"
+      },
+      "image21": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 21"
+      },
+      "image22": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 22"
+      },
+      "image23": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 23"
+      },
+      "image24": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 24"
+      },
+      "image25": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 25"
+      },
+      "image26": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 26"
+      },
+      "image27": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 27"
+      },
+      "image28": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 28"
+      },
+      "image29": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 29"
+      },
+      "image30": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 30"
+      },
+      "image31": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 31"
+      },
+      "image32": {
+        "tooltip": "按连线顺序叠成图层，留空表示没有这一层。",
+        "name": "图像 32"
+      },
+      "image": {
+        "tooltip": "PhotoCraft 导出后回传的文件名（归档在 output，input 里留同名副本），留空表示还没编辑过。",
+        "name": "编辑结果"
+      },
+      "background": {
+        "name": "背景填充",
+        "tooltip": "alpha = 透明区原样保留（有 alpha 出 4 通道，没有出 3 通道）；white/black/red/green/blue/gray = 把透明区垫成该纯色，出 3 通道"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "图像"
+      },
+      "1": {
+        "name": "遮罩"
+      }
+    }
+  },
+  "photoCraft_crop_stitch": {
+    "display_name": "PhotoCraft 裁切回贴",
+    "description": "把裁切图按 STITCH2 记录的位置贴回原图，并在 PhotoCraft 里编辑。",
+    "inputs": {
+      "inpainted_image": {
+        "tooltip": "裁切后的图，会被定位成图层贴回原图。",
+        "name": "裁切图"
+      },
+      "mask": {
+        "tooltip": "crop_mask 模式下只贴遮罩内的部分。",
+        "name": "遮罩"
+      },
+      "stitch": {
+        "tooltip": "STITCH2，提供原图、裁切框与裁切位置。",
+        "name": "拼接信息"
+      },
+      "stitch_mode": {
+        "tooltip": "crop_mask 只贴遮罩内；crop_image 整块裁切图贴回。",
+        "name": "贴回模式"
+      },
+      "feather": {
+        "tooltip": "像素，0–500，只在 crop_image 生效，四周向内线性衰减。",
+        "name": "羽化边"
+      },
+      "image_out": {
+        "tooltip": "PhotoCraft 导出后回传的文件名（归档在 output）。",
+        "name": "编辑结果"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "图像"
+      },
+      "1": {
+        "name": "遮罩"
+      }
+    }
+  }
+}
